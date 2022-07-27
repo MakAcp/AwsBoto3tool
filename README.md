@@ -11,6 +11,6 @@ We have used the following clients:
 ####   Method used : get_cost_and_usage()
    
    
-   Sample Image displaying some of the costs
+   Sample Image displaying some of the costs using the above method
   
 ![image](https://user-images.githubusercontent.com/46950265/181297014-fa71a14b-37e6-44c3-bc3d-8391ee8ad23e.png)
