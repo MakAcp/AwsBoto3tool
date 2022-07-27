@@ -23,4 +23,10 @@ We have used the following clients:
    
    Sample Image displaying the EC2 instance using the above method
   
-![image](https://user-images.githubusercontent.com/46950265/181299629-3cc96374-10f3-4bb3-93e5-fafd8f212977.png)
+ ![image](https://user-images.githubusercontent.com/46950265/181299629-3cc96374-10f3-4bb3-93e5-fafd8f212977.png)
+ 
+ ####   Method used : describe_addresses()
+   
+   The method 'describe_addresses' returns all the reserved Elastic Ip's and their associations(With EC2 instances etc)
+  
+ 
