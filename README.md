@@ -34,9 +34,24 @@ We have used the following clients:
 We use the this method to describe one or more attachments between resources and transit gateways.
 
 ### [S3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html) :  Client representing Amazon Simple Storage Service 
-   W
+ 
    
 ####   Method used : list_buckets()
    
    The method "list_buckets" will return a list of all the active S3 buckets being used.
+   
+   Image displaying S3 buckets returned by the above method
+   ![image](https://user-images.githubusercontent.com/46950265/181936855-d58c957c-b91a-4a3a-bb9e-27d95fa36d83.png)
+
+### [GuardDuty](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/guardduty.html) :  Representing Amazon GuardDuty 
+ 
+   
+####   Method used : list_detectors()
+   
+   The above method lists detectorIds of all the existing Amazon GuardDuty detector resources.
+   
+####   Method used : get_detector()
+
+   Retrieves an Amazon GuardDuty detector specified by the detectorId.
+
    
