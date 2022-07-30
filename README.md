@@ -28,5 +28,15 @@ We have used the following clients:
  ####   Method used : describe_addresses()
    
    The method 'describe_addresses' returns all the reserved Elastic Ip's and their associations(With EC2 instances etc)
-  
- 
+   
+####   Method used : describe_transit_gateway_attachments()
+
+We use the this method to describe one or more attachments between resources and transit gateways.
+
+### [S3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html) :  Client representing Amazon Simple Storage Service 
+   W
+   
+####   Method used : list_buckets()
+   
+   The method "list_buckets" will return a list of all the active S3 buckets being used.
+   
